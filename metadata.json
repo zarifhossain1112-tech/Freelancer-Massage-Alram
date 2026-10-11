@@ -1,0 +1,6 @@
+{
+  "name": "GigAlarm",
+  "description": "Instant alarm alert system for freelance notifications from Fiverr, Upwork, and any chosen app. Never miss orders or client inquiries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

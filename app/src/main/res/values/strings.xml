@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GigAlarm</string>
+    <string name="notification_listener_service_label">GigAlarm Notification Listener</string>
+    <string name="notification_channel_name">GigAlarm Alerts</string>
+    <string name="notification_channel_description">Active alarm notifications for client messages and gig updates</string>
+</resources>
